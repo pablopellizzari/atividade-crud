@@ -1,4 +1,4 @@
-Aplicação web simples de cadastro de funcionários realizado durante as aulas de desenvolvimento de aplicações para aprofuntar conceitos de CRUD, com a linguagem Python e framework Django.
+Aplicação web simples de cadastro de funcionários realizado durante as aulas de desenvolvimento de aplicações para aprofundar conceitos de CRUD, com a linguagem Python e framework Django.
 
 
 
