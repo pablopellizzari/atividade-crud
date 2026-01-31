@@ -1,8 +1,11 @@
 Aplicação web simples de cadastro de funcionários realizado durante as aulas de desenvolvimento de aplicações para aprofundar conceitos de CRUD, com a linguagem Python e framework Django.
 
 Funcionalidades:
+
 -O sistema permite visualizar os cadastros na tela inicial;
+
 -Permite cadastrar um funcionario através do botão "cadastrar um novo funcionário", que ao clicar no botão abre uma tela aonde o usuário pode inserir os dados do funcionario;
+
 -Permite excluir um o cadastro de um funcionário caso necessário clicando no botão "remover", ao clicar o usuário é direcionado a uma tela de confirmação de exclusão.
 
 
